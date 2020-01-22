@@ -2,7 +2,7 @@
 layout: project
 type: project
 # published: true
-image: images/SUASlogo.jpg
+image: images/SUASlogo.png
 title: AUVSI Competition
 permalink: projects/AUVSI
 # All dates must be YYYY-MM-DD format!
