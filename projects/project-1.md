@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-# published: true
+published: true
 image: images/SUASlogo.png
 title: AUVSI Competition
 permalink: projects/AUVSI
