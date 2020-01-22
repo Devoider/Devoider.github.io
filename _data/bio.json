@@ -2,57 +2,51 @@
   "basics": {
     "name": "Joseph  David Harris",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/IMG_5918_cropped.png",
+    "picture": "https://Devoider.github.io/images/IMG_5918_cropped.png",
     "email": "jdh3000@hawaii.edu",
-    "phone": "508-209-7157",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "",
+    "website": "https://Devoider.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96741",
+      "city": "Kalaheo",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Devoider",
+        "url": "http://github.com/Devoider"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "www.linkedin.com/in/joseph-david-harris-iii"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Drones",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Videography",
+        "Racing",
+        "Search and Rescue"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
+      "name": "Database",
+      "keywords": ["Excel",
+                   "SQL",
+                   "VisualBasic"
       ]
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
+      "name": "Object Detection and Classification",
+      "keywords": ["Computer Vision",
+                   "Drones",
+                   "Machine Learning"
       ]
     }
   ],
@@ -63,30 +57,29 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Visualbasic",
+        "Basic"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Excel VBA",
+        "Mission Planner"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-08-23",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +88,23 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Intern Engineer at the Pacific Missle Range Facility",
+      "position": "Engineer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-05-30",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Engineer and Software Developer Intern",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "AUVSI Student Unmaned Aerial Systems Competition 2016",
+      "date": "2017",
+      "awarder": "AUVSI",
+      "summary": "My team won 6th place in the world and 4th in the US."
     }
   ],
   "references": [
