@@ -5,7 +5,7 @@ image: Keyboard_Finished_Square.jpg
 title: Keyboard
 permalink: projects/keyboard
 # All dates must be YYYY-MM-DD format!
-date: 2019-3-15
+date: 2019-03-15
 labels:
   - Laser Cutting
   - Soldering
