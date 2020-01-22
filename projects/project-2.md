@@ -11,8 +11,8 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
----
+summary: A computer keyboard designed and manufactured from scratch.
+--
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
