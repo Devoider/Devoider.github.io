@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/SUASlogo.jpg
 title: Micromouse
 permalink: projects/micromouse
@@ -10,7 +11,7 @@ labels:
   - Drones
   - Machine Learning
   - Search and Rescue
-summary: Me and My team developed UAV capable of flying, identifying objects, and delivering a package autonomously. Designed to meet the AVSI SUAS Competition
+summary: Me and My team developed UAV capable of flying, identifying objects, and delivering a package autonomously. Designed to meet the AUVSI SUAS Competition which simulates a search and rescue situation.
 projecturl:https://me.hawaii.edu/design/uhdt/
 competitionurl:https://www.auvsi-suas.org/
 ---
