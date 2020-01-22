@@ -12,6 +12,6 @@ labels:
   - Machine Learning
   - Search and Rescue
 summary: Me and My team developed UAV capable of flying, identifying objects, and delivering a package autonomously. Designed to meet the AUVSI SUAS Competition which simulates a search and rescue situation.
-projecturl:https://me.hawaii.edu/design/uhdt/
+projecturl: https://me.hawaii.edu/design/uhdt/
 ---
 
