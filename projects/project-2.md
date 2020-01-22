@@ -21,6 +21,11 @@ After assembling the case I had the PCB printed with the help of LFKeyboards.
 
 <img class="ui medium center floated rounded image" src="../images/Keyboard_PCBUnassembled.jpg">
 
+
+
+
+
+
 Then I selected the keys that I wanted and began to hand solder the PCB including all 107 keys.
 
 <img class="ui medium center floated rounded image" src="../images/Keyboard_PCBDuringAssembly.jpg">
