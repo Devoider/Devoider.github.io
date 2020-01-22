@@ -3,8 +3,8 @@ layout: project
 type: project
 published: true
 image: images/SUASlogo.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: AUVSI Competition
+permalink: projects/AUVSI.md
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-17
 labels:
