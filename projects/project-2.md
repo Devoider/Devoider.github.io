@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: Keyboard_Finished_Square.jpg
+image: images/Keyboard_Finished_Square.jpg
 title: Keyboard
 permalink: projects/keyboard
 # All dates must be YYYY-MM-DD format!
