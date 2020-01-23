@@ -28,7 +28,7 @@ Then I selected the keys that I wanted and began to hand solder the PCB includin
 # Testing
 After installing the frimware, [QMK](https://qmk.fm/), the keyboard was ready to be tested. 
 
-<img class="ui medium left floated rounded image" src="../images/Keyboard_AfterAssemblyNoKeycaps.jpg">
+<img class="ui tiny left floated rounded image" src="../images/Keyboard_AfterAssemblyNoKeycaps.jpg">
 # Final Product
 After confiming all the keys work and the backlight and underglow work I was able to install the keycaps and call it complete. 
 
