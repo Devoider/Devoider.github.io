@@ -19,7 +19,7 @@ summary: Built a racing drone for high speed videography.
 Built from the ground up with 2 specific purposes: Speed and Stability.
 Able to fly at 80+ mph for upto 15 minutes the drone is ideal for videography requiring fast moving objects. 
 
-<video width="640" height="480" controls>
+<video width="640" height="480" muted autoplay>
   <source src="../images/Herring_Trim.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
