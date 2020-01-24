@@ -13,8 +13,8 @@ labels:
   - Drone
 summary: Built a racing drone for high speed videography.
 ---
-<img class="ui medium top floated rounded image" src="../images/F of drone.JPG">
-<img class="ui medium top floated rounded image" src="../images/BR of drone.JPG">
+<img class="ui massive top centered rounded image" src="../images/F of drone.JPG">
+<img class="ui massive top centered rounded image" src="../images/BR of drone.JPG">
 
 <p> Built from the ground up with 2 specific purposes: Speed and Stability.
 Able to fly at 80+ mph for upto 15 minutes the drone is ideal for videography requiring fast moving objects. </p>
