@@ -19,7 +19,7 @@ summary: Built a racing drone for high speed videography.
 <p> Built from the ground up with 2 specific purposes: Speed and Stability.
 Able to fly at 80+ mph for upto 15 minutes the drone is ideal for videography requiring fast moving objects. </p>
 
-<p>Design is picked from comercial off the shelf components, mostly from [Pyro Drone](https://pyrodrone.com/). Those components were then assembled by me.</p>
+<p>Design is picked from comercial off the shelf components, mostly from [Pyro Drone.](https://pyrodrone.com/) Those components were then assembled by me.</p>
 
 <video width="640" height="480" muted autoplay loop>
   <source src="../images/Herring_Trim.mp4" type="video/mp4">
