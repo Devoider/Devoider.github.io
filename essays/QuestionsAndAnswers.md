@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Getting the Right Answer
+title: Getting the Answer You're Looking For.
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
@@ -31,6 +31,7 @@ $ time dd if=/dev/urandom of=/dev/null bs=1M count=2
 ```
 but urandom only takes random data from the kernel and just copies to the file which is not what I need. Any ideas regarding this?"
 
+<img class="ui medium left centered rounded image" src="../images/BadQuestions.jpg">
 ### So Whats Wrong?
 There are lots wrong with this question. First, the title: though succinct, there is not enough information to really know what the asker needs. The seedling of a question is there, but not enough for people to actually click into the question. 
 
