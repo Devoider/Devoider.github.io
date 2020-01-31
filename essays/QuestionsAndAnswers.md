@@ -16,6 +16,12 @@ Question on [Stack Exchange](https://stackoverflow.com/questions/23259168/what-a
 "I cannot find any documentation on express.json() and express.urlencoded(). What do each of them do exactly?"
 
 ### Simple and Sweet
+This asker has made it clear from the title what they are looking for. The title contains exactly what the asker is looking for without any fluff surrounding it. 
+
+The body of the question helps to ease any responder with inhibitions about a question this simple by clarifying that they cannot find the documentation, simultaniously showing the responder they they have tried to find an answer and the place where the answer should be found was not viable.
+
+This results in several answers explaining the difference, but more pertinently this resulted in a very thoughtful person explaining where the answer could be found in the documentation despite its reletively unintuitive location. This is the kind of answer he is looking for. 
+
 ## Bad Questions get Sassy Answers
 Question on [Stack Exchange](https://stackoverflow.com/questions/35251188/generate-a-random-file-of-0s-and-1s)
 #### "Generate a random file of 0's and 1's"
