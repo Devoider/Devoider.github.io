@@ -16,7 +16,7 @@ labels:
 ## Bad Questions get Sassy Answers
 Question on [Stack Exchange](https://stackoverflow.com/questions/35251188/generate-a-random-file-of-0s-and-1s)
 
-# "Generate a random file of 0's and 1's"
+### "Generate a random file of 0's and 1's"
 
 "I would like to generate a random file of size 2MB which consists only of 0's and 1's in either Linux/Windows for one of my projects. I tried this command in Linux:"
 ```bash
