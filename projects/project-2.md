@@ -35,3 +35,5 @@ After installing the frimware, [QMK](https://qmk.fm/), the keyboard was ready to
 After confiming all the keys work and the backlight and underglow work I was able to install the keycaps and call it complete. This project was an intense crash course in soldering. I recomend to anynone who is interested in learning to solder to pursue a project that provides the repetition required to learn soldering.  
 <img class="ui massive left centered rounded image" src="../images/Keyboard_Finished.jpg">
 
+
+
