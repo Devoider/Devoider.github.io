@@ -20,23 +20,23 @@ The solution: The _____ application provides up to date information on COVID-19 
 There are three different levels of access. No special access is required to view information posted on the countrywide sections. User is the second level access; it is required to view statewide information (Due to your account being tied to the state) and post in the community section and suggest information to be posted, users must make an account and provide general information about themselves.  Admin is the third level access; it is required to moderate and update the information posted, admins do not need to create an account, their accounts are already created.
 Mock up pages include:
 
--General Landing page
+- General Landing page
 
--General Country specific page
+- General Country specific page
 
--User Card page (where the user sees the states they have selected/subscribed)
+- User Card page (where the user sees the states they have selected/subscribed)
 
--User State Specific page
+- User State Specific page
 
--General Sign up page
+- General Sign up page
 
--User Edit page (edit what states the user Selected/Subscribed too)
+- User Edit page (edit what states the user Selected/Subscribed too)
 
--General Sign-in page
+- General Sign-in page
 
--User Community page
+- User Community page
 
--Admin Edit page/s
+- Admin Edit page/s
 
 ## Use Case Ideas
 A new user goes to the landing page, views US information, goes to sign up page, makes an account, gets landing page, goes to state cards page, goes to  state page, goes to the community page, makes a community post.
