@@ -7,7 +7,9 @@ labels:
   - Software Engineering
   - Meteor
 ---
-
+# Authors:
+Joseph Harris
+Jasmine Singleton
 ## Overview
 The problem: We are currently in uncharted territory in the midst of the COVID-19 pandemic. It is time-consuming and difficult to stay informed. There are a plethora of resources to keep track of, some of it better then others. With new information coming out every day, being informed and aware is essential to staying healthy and responsible.
 
@@ -18,14 +20,23 @@ There are three different levels of access. No special access is required to vie
 Mock up pages include:
 
 -General Landing page
+
 -General Country specific page
+
 -User Card page (where the user sees the states they have selected/subscribed)
+
 -User State Specific page
+
 -General Sign up page
+
 -User Edit page (edit what states the user Selected/Subscribed too)
+
 -General Sign-in page
+
 -User Community page
+
 -Admin Edit page/s
+
 ## Use Case Ideas
 A new user goes to the landing page, views US information, goes to sign up page, makes an account, gets landing page, goes to state cards page, goes to  state page, goes to the community page, makes a community post.
 Admin goes to the landing page, goes to sign-in page,  goes to edit page, adds information, changes existing information, 
