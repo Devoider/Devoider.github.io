@@ -8,8 +8,7 @@ labels:
   - Meteor
 ---
 #### Authors:
-Jasmine Singleton
-
+Jasmine Singleton,
 Joseph Harris
 
 ## Overview
