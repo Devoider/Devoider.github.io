@@ -8,9 +8,10 @@ labels:
   - Meteor
 ---
 # Authors:
-- Jasmine Singleton
+Jasmine Singleton
 
-- Joseph Harris
+Joseph Harris
+
 ## Overview
 The problem: We are currently in uncharted territory in the midst of the COVID-19 pandemic. It is time-consuming and difficult to stay informed. There are a plethora of resources to keep track of, some of it better then others. With new information coming out every day, being informed and aware is essential to staying healthy and responsible.
 
