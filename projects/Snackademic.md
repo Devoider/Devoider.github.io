@@ -12,6 +12,6 @@ labels:
   - Web Design
   - HTML
 summary: Me and a group designed a website for finding food places on campus using meteor-react. 
-projecturl: https://github.com/the-back-corner
+projecturl: https://the-back-corner.github.io/
 ---
 
