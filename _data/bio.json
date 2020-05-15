@@ -6,7 +6,7 @@
     "email": "jdh3000@hawaii.edu",
     "phone": "",
     "website": "https://Devoider.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I have a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96741",
@@ -77,11 +77,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2020)",
+      "area": "Computer Engineering (Graduate as of Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2015-08-23",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2020-05-15",
+      "gpa": "2.7",
       "courses": [
       ]
     }
@@ -92,8 +92,19 @@
       "position": "Engineer",
       "website": "",
       "startDate": "2016-05-30",
-      "endDate": "Present",
+      "endDate": "2020-05-15",
       "summary": "Engineer and Software Developer Intern",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Engineer at the Pacific Missle Range Facility",
+      "position": "Engineer",
+      "website": "",
+      "startDate": "2016-05-26",
+      "endDate": "present",
+      "summary": "Engineer and Software Developer",
       "highlights": [
         ""
       ]
